@@ -1,0 +1,32 @@
+{
+  "name": "IMU",
+  "main": "src/main",
+  "private": true,
+  "version": "3.2.6",
+  "description": "Desktop App for instagram",
+  "repository": "bikalab/imu",
+  "license": "Apache License 2.0",
+  "author": {
+    "name": "Bikalab",
+    "email": "app@bikalab.com",
+    "url": "bikalab.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bikalab/imu/issues"
+  },
+  "keywords": [
+    "Instagram",
+    "Electron",
+    "Social",
+    "Client"
+  ],
+  "dependencies": {
+    "electron-config": "^1.0.0",
+    "electron-is-dev": "^0.3.0",
+    "element-ready": "^3.0.0",
+    "first-run": "^1.2.0",
+    "insight": "^0.10.1",
+    "ms": "^2.1.1",
+    "os": "^0.1.1"
+  }
+}
